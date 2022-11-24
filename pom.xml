@@ -12,11 +12,11 @@
 
     <groupId>com.snowflake.nifi</groupId>
     <artifactId>snowflake-bundle</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>pom</packaging>
 
     <properties>
-        <processor.version>1.0.0</processor.version>
+        <processor.version>1.0.1</processor.version>
     </properties>
 
     <modules>
